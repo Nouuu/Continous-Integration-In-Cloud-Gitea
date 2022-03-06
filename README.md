@@ -4,6 +4,8 @@
 
 ![image-20220129163229173](docs/image-20220129163229173.png)
 
+[Slides de Présentation](./slides.pdf)
+
 L'objectif de ce projet était de monter un stack d'intégration continue sur une infrastructure cloud.
 
 L'idée de base était de "mettre en place un serveur git". 
