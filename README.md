@@ -2,7 +2,7 @@
 
 # Introduction
 
-![image-20220129163229173](docs/image-20220129163229173.png)
+![image-20220129163229173](docs/image-20220306133642473.png)
 
 [Slides de Présentation](./slides.pdf)
 
